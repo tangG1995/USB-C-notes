@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Git
+.git/
+
+# System
+*.tmp
+*.temp
+.DS_Store
+
+# Logs
+*.log
